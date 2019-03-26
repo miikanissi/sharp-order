@@ -1,1 +1,2 @@
-# sharp-order
+# sharp-order (School project)
+Project goal was to design an order system for a startup game manufacturer. This order system would be a console application. Time for the development of the project was 6 weeks. We used SCRUM project managing. Goals of this project were to learn object-oriented programming in C# and a small touch to storing data in a csv file. Before this project I had zero experience in C#. I am happy with how the project turned out. I learned a lot about C# and overall programming and in the future I am able to use these skills in other projects. 
